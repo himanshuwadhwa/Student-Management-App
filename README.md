@@ -1,20 +1,4 @@
 <h1>Student Management App</h1>
----
-
----
-
-### Inside the course
-
-* ✅ Template Essentials
-* ✅ Component Architecture
-* ✅ Styles and Encapsulation
-* ✅ Pipes
-* ✅ Rendering Flows
-* ✅ Template Forms and Validation
-* ✅ State Management and Services
-* ✅ Services and API Requests
-* ✅ Routing and Navigation
-* ✅ Standalone Components
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
