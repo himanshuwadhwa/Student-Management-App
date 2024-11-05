@@ -1,0 +1,62 @@
+{
+  "standards": [
+    {
+      "StandardId": "1",
+      "StandardName": "Standard 1"
+    },
+    {
+      "StandardId": "2",
+      "StandardName": "Standard 2"
+    },
+    {
+      "StandardId": "3",
+      "StandardName": "Standard 3"
+    }
+  ],
+  "students": [
+    {
+      "StandardId": "1",
+      "Students": [
+        {
+          "Id": "1",
+          "Name": "Student 1",
+          "Address": {
+            "Addres1": "22 Rue du Grenier Saint-Lazare",
+            "PostalCode": "75003",
+            "City": "Paris",
+            "Country": "France"
+          }
+        },
+        {
+          "Id": "2",
+          "Name": "Student 2",
+          "Address": {
+            "Addres1": "346 Bradtke Forges",
+            "PostalCode": "97596-3593",
+            "City": "Janaehaven",
+            "Country": "Belgium"
+          }
+        },
+        {
+          "Id": "3",
+          "Name": "Student 3",
+          "Address": {
+            "Addres1": "626 Main Street",
+            "PostalCode": "29112",
+            "City": "Phoenix",
+            "Country": "United States"
+          }
+        }
+      ]
+    },
+    {
+      "StandardId": "2",
+      "Students": [
+        {
+          "Id": "1",
+          "Name": "Student 2"
+        }
+      ]
+    }
+  ]
+}
